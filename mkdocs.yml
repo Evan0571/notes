@@ -12,8 +12,11 @@ theme:
     - search.highlight
   palette:
     - scheme: default
-      primary: blue grey
-      accent: indigo
+      primary: brown
+      accent: brown
+    - scheme: slate
+      primary: brown
+      accent: brown
 
 markdown_extensions:
   - admonition
@@ -21,7 +24,10 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
-  - 首页: index.md
-  - 入门:
-      - 环境准备: guide/getting-started.md
+  - Home: index.md
+  - Guide:
+      - Getting Started: guide/getting-started.md
