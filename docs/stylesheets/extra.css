@@ -1,0 +1,53 @@
+/* Notes style additions */
+.link-card {
+  border: 1px solid #d8d0cb;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(32, 24, 20, 0.06);
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+[data-md-color-scheme="slate"] .link-card {
+  border-color: #3c332f;
+  background: #211b18;
+}
+
+.link-card a {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.link-card img {
+  width: 64px;
+  height: 64px;
+  border-radius: 999px;
+  border: 1px solid #d8d0cb;
+  object-fit: cover;
+}
+
+[data-md-color-scheme="slate"] .link-card img {
+  border-color: #4a3f39;
+}
+
+.link-card h3 {
+  margin: 0 0 4px;
+  color: inherit;
+}
+
+.link-card p {
+  margin: 0 0 4px;
+  color: var(--md-default-fg-color--light);
+}
+
+.link-card small {
+  color: var(--md-default-fg-color--lighter);
+}
+
+.link-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(32, 24, 20, 0.1);
+}
