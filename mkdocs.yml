@@ -10,13 +10,20 @@ theme:
     - navigation.top
     - content.code.copy
     - search.highlight
+    - content.code.annotate
   palette:
     - scheme: default
-      primary: brown
-      accent: brown
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
     - scheme: slate
-      primary: brown
-      accent: brown
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 markdown_extensions:
   - admonition
