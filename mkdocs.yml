@@ -45,6 +45,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/giscus.js
+
 nav:
   - Home: index.md
   - Computer Science:
