@@ -21,11 +21,17 @@ theme:
     - search.share
   palette:
     - scheme: default
-      primary: brown
-      accent: brown
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
     - scheme: slate
-      primary: brown
-      accent: brown
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 plugins:
   - search:
@@ -48,6 +54,8 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
+  - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+  - javascripts/view-counter.js
   - javascripts/giscus.js
 
 nav:
