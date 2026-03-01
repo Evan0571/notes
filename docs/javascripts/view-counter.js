@@ -1,4 +1,4 @@
-(() => {
+ï»¿(() => {
   const META_ID = "notes-meta-line";
   const BSZ_SCRIPT_ID = "busuanzi-script";
 
@@ -44,9 +44,9 @@
     const read = `${estimateReadTime(article)} min`;
     meta.innerHTML = `
       <span>${date}</span>
-      <span>¡¤</span>
+      <span>&middot;</span>
       <span>${read}</span>
-      <span>¡¤</span>
+      <span>&middot;</span>
       <span id="busuanzi_container_page_pv">Views: <span id="busuanzi_value_page_pv"></span></span>
     `;
 
@@ -60,3 +60,4 @@
     document.addEventListener("DOMContentLoaded", mountMetaLine);
   }
 })();
+
