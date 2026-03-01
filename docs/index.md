@@ -1,5 +1,3 @@
-## Home
-
 This is my notes site, including my course notes and reading notes.
 
 ### About me
