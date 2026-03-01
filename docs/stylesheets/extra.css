@@ -79,27 +79,13 @@
   box-shadow: 0 6px 18px rgba(32, 24, 20, 0.1);
 }
 
-/* View counter badges */
-.notes-view-counter {
-  margin-top: 1.5rem;
-  padding-top: 0.9rem;
-  border-top: 1px solid #d8d0cb;
+/* Title meta row (date / read time / views) */
+.notes-meta-line {
+  margin: 0.25rem 0 0.95rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.85rem;
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-}
-
-[data-md-color-scheme="slate"] .notes-view-counter {
-  border-top-color: #3c332f;
-}
-
-.notes-view-counter span[id^="busuanzi_container_"] {
-  border: 1px solid #d8d0cb;
-  border-radius: 999px;
-  padding: 2px 8px;
-  font-size: 0.82rem;
-}
-
-[data-md-color-scheme="slate"] .notes-view-counter span[id^="busuanzi_container_"] {
-  border-color: #4a3f39;
+  gap: 0.4rem;
+  align-items: center;
 }

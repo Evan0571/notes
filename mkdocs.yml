@@ -54,7 +54,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   - javascripts/view-counter.js
   - javascripts/giscus.js
 
