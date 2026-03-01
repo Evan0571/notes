@@ -1,15 +1,23 @@
-site_name: My Notes
-site_description: Personal notes powered by MkDocs Material
+site_name: Evan's Notes
+site_description: Technical notes and research log
 site_url: https://evan0571.github.io/notes/
 
 theme:
   name: material
   language: zh
+  font: false
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
     - navigation.top
+    - toc.follow
     - content.code.copy
+    - content.code.annotate
+    - search.suggest
     - search.highlight
+    - search.share
   palette:
     - scheme: default
       primary: brown
@@ -18,9 +26,20 @@ theme:
       primary: brown
       accent: brown
 
+plugins:
+  - search:
+      lang:
+        - en
+        - zh
+
 markdown_extensions:
   - admonition
-  - codehilite
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
   - toc:
       permalink: true
 
@@ -29,5 +48,27 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Guide:
+  - Computer Science:
+      - Overview: computer-science/index.md
+      - Algorithms: computer-science/algorithms.md
+      - Data Structures: computer-science/data-structures.md
+  - System:
+      - Overview: system/index.md
+      - Linux Basics: system/linux-basics.md
+      - Networking: system/networking.md
+  - AI:
+      - Overview: ai/index.md
+      - Fundamentals: ai/fundamentals.md
+      - Tooling: ai/tooling.md
+  - EDA:
+      - Overview: eda/index.md
+      - Exploratory Workflow: eda/exploratory-workflow.md
+  - Mathematics:
+      - Overview: mathematics/index.md
+      - Linear Algebra: mathematics/linear-algebra.md
+  - Papers:
+      - Overview: papers/index.md
+      - Reading Notes: papers/reading-notes.md
+  - Miscellaneous:
+      - Overview: miscellaneous/index.md
       - Getting Started: guide/getting-started.md
