@@ -49,6 +49,7 @@ extra_css:
 nav:
   - Home: index.md
   - Computer Science:
+    - Overview: computer-science/index.md
     - CS400: 
       - Overview: computer-science/cs400/index.md
       - BST: computer-science/cs400/bst.md
