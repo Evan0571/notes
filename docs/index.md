@@ -1,6 +1,7 @@
-This is my notes site, including my course notes and reading notes.
+Welcome to my notebooks !
 
 ### About me
+I'm Evan, a CS student focused on practical engineering, backend systems, and developer tooling.
 
-- I'm Evan, a CS student focused on practical engineering, backend systems, and developer tooling.
+Welcome to discuss any problems with me!
 

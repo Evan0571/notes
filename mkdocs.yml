@@ -49,26 +49,19 @@ extra_css:
 nav:
   - Home: index.md
   - Computer Science:
-      - Overview: computer-science/index.md
-      - Algorithms: computer-science/algorithms.md
-      - Data Structures: computer-science/data-structures.md
-  - System:
-      - Overview: system/index.md
-      - Linux Basics: system/linux-basics.md
-      - Networking: system/networking.md
-  - AI:
-      - Overview: ai/index.md
-      - Fundamentals: ai/fundamentals.md
-      - Tooling: ai/tooling.md
-  - EDA:
-      - Overview: eda/index.md
-      - Exploratory Workflow: eda/exploratory-workflow.md
+    - CS400: 
+      - Overview: computer-science/cs400/index.md
+      - BST: computer-science/cs400/bst.md
+      - RBT: computer-science/cs400/rbt.md
+      - AVL Tree: computer-science/cs400/avl-tree.md
+      - B Tree: computer-science/cs400/b-tree.md
+      - Bash: computer-science/cs400/bash.md
+      - JUnit: computer-science/cs400/junit.md
+      - Version Control: computer-science/cs400/version-control.md
+      - Make: computer-science/cs400/make.md
   - Mathematics:
-      - Overview: mathematics/index.md
-      - Linear Algebra: mathematics/linear-algebra.md
-  - Papers:
-      - Overview: papers/index.md
-      - Reading Notes: papers/reading-notes.md
-  - Miscellaneous:
-      - Overview: miscellaneous/index.md
-      - Getting Started: guide/getting-started.md
+    - MATH221:
+      - Overview: mathematics/math221/index.md
+      - Chapter 1: mathematics/math221/chapter-1.md
+      - Chapter 2: mathematics/math221/chapter-2.md
+      - Chapter 3: mathematics/math221/chapter-3.md
