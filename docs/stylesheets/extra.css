@@ -22,8 +22,8 @@
 }
 
 .link-card img {
-  width: 64px;
-  height: 64px;
+  width: 80px;
+  height: 80px;
   border-radius: 999px;
   border: 1px solid #d8d0cb;
   object-fit: cover;

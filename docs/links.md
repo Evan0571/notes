@@ -12,3 +12,5 @@
     </div>
   </a>
 </div>
+
+If you want to exchange links, feel free to contact me via [GitHub Issues](https://github.com/Evan0571/notes/issues).
