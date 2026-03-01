@@ -9,6 +9,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
     - toc.follow
     - content.code.copy
@@ -48,6 +49,7 @@ nav:
   - Home: index.md
   - Computer Science:
     - CS400:
+      - computer-science/cs400/index.md
       - BST: computer-science/cs400/bst.md
       - RBT: computer-science/cs400/rbt.md
       - AVL Tree: computer-science/cs400/avl-tree.md
@@ -58,6 +60,7 @@ nav:
       - Make: computer-science/cs400/make.md
   - Mathematics:
     - MATH221:
+      - mathematics/MATH221/index.md
       - Chapter 1: mathematics/MATH221/chapter-1.md
       - Chapter 2: mathematics/MATH221/chapter-2.md
       - Chapter 3: mathematics/MATH221/chapter-3.md
