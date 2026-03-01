@@ -16,7 +16,9 @@
   const CONTAINER_ID = "giscus-comments";
 
   function mountGiscus() {
-    const article = document.querySelector(".md-content__inner .md-content");
+    const article =
+      document.querySelector("article.md-content__inner") ||
+      document.querySelector(".md-content__inner.md-typeset");
     if (!article) return;
 
     const existing = document.getElementById(CONTAINER_ID);
