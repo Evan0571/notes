@@ -61,7 +61,7 @@ nav:
       - Make: computer-science/cs400/make.md
   - Mathematics:
     - MATH221:
-      - Overview: mathematics/math221/index.md
-      - Chapter 1: mathematics/math221/chapter-1.md
-      - Chapter 2: mathematics/math221/chapter-2.md
-      - Chapter 3: mathematics/math221/chapter-3.md
+      - Overview: mathematics/MATH221/index.md
+      - Chapter 1: mathematics/MATH221/chapter-1.md
+      - Chapter 2: mathematics/MATH221/chapter-2.md
+      - Chapter 3: mathematics/MATH221/chapter-3.md
