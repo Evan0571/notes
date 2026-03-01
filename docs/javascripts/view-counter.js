@@ -42,11 +42,12 @@
 
     const date = formatDate(document.lastModified);
     const read = `${estimateReadTime(article)} min`;
+    const sep = String.fromCharCode(183);
     meta.innerHTML = `
       <span>${date}</span>
-      <span>&middot;</span>
+      <span>${sep}</span>
       <span>${read}</span>
-      <span>&middot;</span>
+      <span>${sep}</span>
       <span id="busuanzi_container_page_pv">Views: <span id="busuanzi_value_page_pv"></span></span>
     `;
 
