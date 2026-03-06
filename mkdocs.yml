@@ -70,6 +70,8 @@ nav:
       - JUnit: computer-science/cs400/junit.md
       - Version Control: computer-science/cs400/version-control.md
       - Make: computer-science/cs400/make.md
+      - Lambda Expressions: computer-science/cs400/lambda-expressions.md
+      - Minimum Spanning Tree: computer-science/cs400/minimum-spanning-tree.md
   - Mathematics:
     - MATH221:
       - mathematics/MATH221/index.md
