@@ -1,4 +1,4 @@
-# AVL Tree
+# AVL Tree：自平衡二叉树
 
 ## AVL-Tree的定义&性质
 - AVL-Tree：全称Adelson-Velsky and Landis tree, 是由这两位数学家提出的自平衡二叉搜索树(self-balancing binary search tree)
