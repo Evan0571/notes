@@ -10,6 +10,8 @@
 - Mohawk - George-Kanentiio 2006
 - Hawaiians - Saranillio 2018
 
+---
+
 ### 1. How did **stereotypes** about and **misunderstandings** of Native peoples serve colonists’ interests during the period of settler-colonial expansion? More recently, how has the federal government used **physical characteristics** or **genetic factors** to misrepresent Native identities? Include examples from **Diné** and **Lumbee** experiences. [在殖民扩张时期，对原住民的“刻板印象”和“误解”是怎么使殖民者获益的？更近期，联邦政府是如何使用“身体特征”和“基因因素”歪曲原住民身份的？]
 
 ### Dunbar-Ortiz 2016
