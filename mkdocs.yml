@@ -65,21 +65,29 @@ nav:
   - Home: index.md
   - Computer Science:
     - CS400:
-      - computer-science/cs400/index.md
-      - BST: computer-science/cs400/bst.md
-      - RBT: computer-science/cs400/rbt.md
-      - AVL Tree: computer-science/cs400/avl-tree.md
-      - B Tree: computer-science/cs400/b-tree.md
-      - Bash: computer-science/cs400/bash.md
-      - JUnit: computer-science/cs400/junit.md
-      - Version Control: computer-science/cs400/version-control.md
-      - Make: computer-science/cs400/make.md
-      - Lambda Expressions: computer-science/cs400/lambda-expressions.md
-      - Minimum Spanning Tree: computer-science/cs400/minimum-spanning-tree.md
+      - computer-science/CS400/index.md
+      - BST: computer-science/CS400/bst.md
+      - RBT: computer-science/CS400/rbt.md
+      - AVL Tree: computer-science/CS400/avl-tree.md
+      - B Tree: computer-science/CS400/b-tree.md
+      - Bash: computer-science/CS400/bash.md
+      - JUnit: computer-science/CS400/junit.md
+      - Version Control: computer-science/CS400/version-control.md
+      - Make: computer-science/CS400/make.md
+      - Lambda Expressions: computer-science/CS400/lambda-expressions.md
+      - Minimum Spanning Tree: computer-science/CS400/minimum-spanning-tree.md
   - Mathematics:
     - MATH221:
       - mathematics/MATH221/index.md
       - Chapter 1: mathematics/MATH221/chapter-1.md
       - Chapter 2: mathematics/MATH221/chapter-2.md
       - Chapter 3: mathematics/MATH221/chapter-3.md
+  - Ethnics:
+    - AAS227:
+      - ethnics/AAS227/index.md
+      - The Blacker the Berry: ethnics/AAS227/the-blacker-the-berry.md
+      - Black no More: ethnics/AAS227/black-no-more.md
+    - AIIS100:
+      - ethnics/AIIS100/index.md
+      - Midterm Review: ethnics/AIIS100/midterm-review.md
   - Links: links.md
