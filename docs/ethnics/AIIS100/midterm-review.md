@@ -1,6 +1,6 @@
 # Midterm Question Banks
 
-## 文章对应的民族
+### 文章对应的民族
 - Dine -  Curley 2023
 - Lumbee - Lowery 2010
 - Ojibwe - Loew 2013
@@ -10,7 +10,7 @@
 - Mohawk - George-Kanentiio 2006
 - Hawaiians - Saranillio 2018
 
-## 1. How did **stereotypes** about and **misunderstandings** of Native peoples serve colonists’ interests during the period of settler-colonial expansion? More recently, how has the federal government used **physical characteristics** or **genetic factors** to misrepresent Native identities? Include examples from **Diné** and **Lumbee** experiences. [在殖民扩张时期，对原住民的“刻板印象”和“误解”是怎么使殖民者获益的？更近期，联邦政府是如何使用“身体特征”和“基因因素”歪曲原住民身份的？]
+### 1. How did **stereotypes** about and **misunderstandings** of Native peoples serve colonists’ interests during the period of settler-colonial expansion? More recently, how has the federal government used **physical characteristics** or **genetic factors** to misrepresent Native identities? Include examples from **Diné** and **Lumbee** experiences. [在殖民扩张时期，对原住民的“刻板印象”和“误解”是怎么使殖民者获益的？更近期，联邦政府是如何使用“身体特征”和“基因因素”歪曲原住民身份的？]
 
 ### Dunbar-Ortiz 2016
 - The myth of the "vanishing Indian" was a self-serving narrative used to advance political agandas aimed at the continual seizure of Native lands and resources.
@@ -22,7 +22,7 @@
 
 ---
 
-## 2. What are some challenges that Wisconsin Tribes have faced, regarding **reservations**? How have they **addressed** those challenges? Include examples from the experiences of the **Ojibwe** and the **Ho-Chunk**. [威斯康辛州的部落在保留地方面面临了什么挑战？他们是怎么解决的？]
+### 2. What are some challenges that Wisconsin Tribes have faced, regarding **reservations**? How have they **addressed** those challenges? Include examples from the experiences of the **Ojibwe** and the **Ho-Chunk**. [威斯康辛州的部落在保留地方面面临了什么挑战？他们是怎么解决的？]
 
 ### Loew 2013 - Ojibwe
 - The Ojibwe at LCO faced the destruction of their sacred wild rice beds amd cemeteries due to the construction of the Winter Dam in 1921.
@@ -34,7 +34,7 @@
 
 ---
 
-## 3. What **spiritual** and **cultural** impacts have resulted from settler colonialism’s disruptions of Native people’s relationships to the **land**? Use examples from the experiences of the **Lakota**, **Gwich’in**, and **Lumbee** people. [殖民者对原住民与土地之间关系的破坏对原住民产生了哪些精神和文化影响]
+### 3. What **spiritual** and **cultural** impacts have resulted from settler colonialism’s disruptions of Native people’s relationships to the **land**? Use examples from the experiences of the **Lakota**, **Gwich’in**, and **Lumbee** people. [殖民者对原住民与土地之间关系的破坏对原住民产生了哪些精神和文化影响]
 
 ### Gagnon 2012 - Lakota
 - For the Lakota, the 1890 massacre at Wounded Knee was seen as a spiritual catastrophe that "broke the circle" of the Sioux Nation.
@@ -50,7 +50,7 @@
 
 ---
 
-## 4. How have US **government agencies’** and US **military** actions directly pushed Native peoples into **poverty**? Include examples from the experiences of the **Diné** and **Mohawk** people. [美国政府和军队是怎么直接导致原住民的贫穷的？]
+### 4. How have US **government agencies’** and US **military** actions directly pushed Native peoples into **poverty**? Include examples from the experiences of the **Diné** and **Mohawk** people. [美国政府和军队是怎么直接导致原住民的贫穷的？]
 
 ### Curley 2023
 - In the 1860s, the U.S. Army engaged in a scorched-earth campaign against the Dine, burning their homes and fields before forcing them into internment at Hweeldi.
@@ -62,7 +62,7 @@
 
 ---
 
-## 5. How has the US **government**, and its **agencies**, supported **businesses’ activities** against the will of the Native peoples? Include examples from the experiences of the **Lakota** people and **Native Hawaiians**. [美国政府和机构支持了哪些违背原住民意愿的活动]
+### 5. How has the US **government**, and its **agencies**, supported **businesses’ activities** against the will of the Native peoples? Include examples from the experiences of the **Lakota** people and **Native Hawaiians**. [美国政府和机构支持了哪些违背原住民意愿的活动]
 
 ### Dunbar-Ortiz 2014
 - The U.S. military provided protection for gold prospectors and railroad contractors who illegally trespassed on Lakota treaty lands in the Black Hills.
@@ -74,19 +74,19 @@
 
 ---
 
-## 6. How have US **government agencies** pushed Native peoples into the **market economy**? Include examples from the experiences of the **Diné** and **Alaska Natives**. [美国政府机构是怎么把原住民推向市场经济的]
+### 6. How have US **government agencies** pushed Native peoples into the **market economy**? Include examples from the experiences of the **Diné** and **Alaska Natives**. [美国政府机构是怎么把原住民推向市场经济的]
 
-## Curley 2023
+### Curley 2023
 - The Bureau of Indian Affairs (BIA) partnered with outside corporations to bring gendered wage labor to the Die reservation following the destruction of their subsistence herds.
 - Federal agencies introduced mineral and oil leasing contracts that made the Dine economy dependent on external extractive industries, a concept Curley calls "carbon sovereignty".
 
-## Dinero 2016
+### Dinero 2016
 - Government agencies and missionaries in Alaska established schools and churches that required nomadic Gwich'in groups to settle in fixed locations so their children could attend.
 - The introduction of the fur trade by white traders integrated the Gwich'in into a regional cash economy  where they became dependent on purchasing ammunition, tea, and firearms.
 
 ---
 
-## 7. How have the **market economy** and **colonialism**, beyond disrupting relationships to land, led to other **social** and **cultural impacts** on Native peoples in the US? Use examples from the experiences of **Alaska Natives**, **Native Hawaiians**, and the **Diné**. [除了土地以外，市场经济和殖民主义还对原住民的社会、文化有什么影响]
+### 7. How have the **market economy** and **colonialism**, beyond disrupting relationships to land, led to other **social** and **cultural impacts** on Native peoples in the US? Use examples from the experiences of **Alaska Natives**, **Native Hawaiians**, and the **Diné**. [除了土地以外，市场经济和殖民主义还对原住民的社会、文化有什么影响]
 
 ### Dinero 2016
 - The shift to market economy led to an aging population in Alaska Native villages as youth migrated to urban centers for wage labor.
@@ -102,7 +102,7 @@
 
 ---
 
-## 8. How has **environmental damage** impacted the **health and economies** of Native peoples in the US? Use examples from the experiences of the **Mohawk**, **Diné**, and Native **Hawaiians**. [环境破坏对原住民的环境和经济有什么影响]
+### 8. How has **environmental damage** impacted the **health and economies** of Native peoples in the US? Use examples from the experiences of the **Mohawk**, **Diné**, and Native **Hawaiians**. [环境破坏对原住民的环境和经济有什么影响]
 
 ### Geoger-Kanetiio 2006 
 - Mohawk communities suffered from PCB and mercury contamination in their local fish and crops, which destroyed their traditional food economy and introduced carcinogens into the poulation.
@@ -117,19 +117,19 @@
 
 ---
 
-## 9. What were some specific pieces of **legislation** put into place as part of an **assimilation approach**? What have their impacts been on **reservations**, and on **Tribal sovereignty** on those reservations? [同化政策具体出台了哪些立法？这些立法对保留地以及其居民产生了什么影响？]
+### 9. What were some specific pieces of **legislation** put into place as part of an **assimilation approach**? What have their impacts been on **reservations**, and on **Tribal sovereignty** on those reservations? [同化政策具体出台了哪些立法？这些立法对保留地以及其居民产生了什么影响？]
 
-## Jacobs 2023
+### Jacobs 2023
 - The 1887  Dawes/Allotment Act divided communal tribal lands into individual plots to encourage private property ownership, resulting in the loss of 90 million acres of Native land.
 - The Allotment Act created a "checkerboard" pattern of land ownership that severely limited tribal jurisdiction within reservation boundaries.
 
-## Gagnon 2012
+### Gagnon 2012
 - The 1924 Indian Citizenship Act imposed U.S. citizenship on Native people without their consent, aiming to dissolve tribal nations into the general populace.
 - These laws utilized federal "trust responsibility" to treat Native nations as "domestic dependent nations", replacing inherent tribal authority with federal oversight.
 
 ---
 
-## 10. What was the intended purpose of **boarding schools**? What were their impacts on **Native families** and **cultures**? [寄宿学校的初衷是什么， 他们对于原住民家庭和文化有什么影响]
+### 10. What was the intended purpose of **boarding schools**? What were their impacts on **Native families** and **cultures**? [寄宿学校的初衷是什么， 他们对于原住民家庭和文化有什么影响]
 
 ### Dunbar-Ortiz 2014
 - The intended purpose of boarding schools was total cultural assimilation, famously summarized by the motto "Kill the Indian, and save the man".
@@ -143,7 +143,7 @@
 
 ---
 
-## 11. What was the goal of the **Termination Era**? How did it impact **Tribes**? Provide specific examples, including Wisconsin Tribes. [终结时代的目标是什么？他是怎么影响部落的]
+### 11. What was the goal of the **Termination Era**? How did it impact **Tribes**? Provide specific examples, including Wisconsin Tribes. [终结时代的目标是什么？他是怎么影响部落的]
 
 ### Dunbar-Ortiz 2014
 - The goal of termination was to end the special political and trust relationship between the federal government and tribal nations.
@@ -155,7 +155,7 @@
 
 ---
 
-## 12. What was **Relocation**? How did **Urban Indians** experience it? [什么是relocation？城市印第安人是如何经历的？]
+### 12. What was **Relocation**? How did **Urban Indians** experience it? [什么是relocation？城市印第安人是如何经历的？]
 
 ### Jacobs 2023
 - Relocation was a 1950s federal policy that provided funding for Native individuals and families to move from reservations to designated urban industrial areas.
@@ -167,7 +167,7 @@
 
 ---
 
-## 13. What were the impacts of **separatist approaches**, from the 1830s through the 1950s, in terms of **protecting** Native Nations from settler-colonialism, imposing **constraints** on them, and **supporting or undermining** their **sovereignty**? Provide specific examples involving legislation, federal government actions, or judicial decisions. [1830-1950,分离策略在保护原住民免受殖民主义侵害，限制原住民，支持或损害原住民主权方面，有什么影响？具体举例立法，政府行动或司法行为]
+### 13. What were the impacts of **separatist approaches**, from the 1830s through the 1950s, in terms of **protecting** Native Nations from settler-colonialism, imposing **constraints** on them, and **supporting or undermining** their **sovereignty**? Provide specific examples involving legislation, federal government actions, or judicial decisions. [1830-1950,分离策略在保护原住民免受殖民主义侵害，限制原住民，支持或损害原住民主权方面，有什么影响？具体举例立法，政府行动或司法行为]
 
 ### Richotte 2020 
 - The 1830 Indian Removal Act utilized forced separation to move tribes west of the Mississippi, which led to mass death but alowed tribes a temporary space to rebuild their governments in isolation.
@@ -179,7 +179,7 @@
 
 ---
 
-## 14. How have, or have not, **treaties** ensured land rights for Native Nations? Compare the experiences of the Lakota, the Diné, and Alaska Natives. [条约是怎么确保或没有确保原住民的土地权利的]
+### 14. How have, or have not, **treaties** ensured land rights for Native Nations? Compare the experiences of the Lakota, the Diné, and Alaska Natives. [条约是怎么确保或没有确保原住民的土地权利的]
 
 ### Dunbar-Ortiz 2014
 - The 1868 Treaty of Fort Laramie guaranteed the Black Hill to Lakota, but the U.S. government unilaterally broke the treaty and seized the land omce gold was discovered.
@@ -193,7 +193,7 @@
 
 ---
 
-## 15. How has Native peoples’ **legal advocacy** ensured their rights to **natural resources**? Include examples from the experiences of the Ojibwe and Native Hawaiians. [原住民的法律维权如何保障了他们自然资源的权力]
+### 15. How has Native peoples’ **legal advocacy** ensured their rights to **natural resources**? Include examples from the experiences of the Ojibwe and Native Hawaiians. [原住民的法律维权如何保障了他们自然资源的权力]
 
 ### Loew 2013 (Ojibwe)
 - The Ojibwe bands in Wisconsin won the Voigt decision in federal court, which affirmed their theaty rights to hunt, fish, and gather on ceded lands.
@@ -204,7 +204,7 @@
 
 ---
 
-## 16. What **legal rights** did American Indians obtain in the 1960s-1980s? Name and describe specific pieces of federal legislation. [1960-1980年，美国印第安人获得了哪些法律权益]
+### 16. What **legal rights** did American Indians obtain in the 1960s-1980s? Name and describe specific pieces of federal legislation. [1960-1980年，美国印第安人获得了哪些法律权益]
 
 ### Gagnon 2012
 - The 1968 Indian Civil Rights Act (ICRA) required tribal governments to provide their citizens with basic bill of rights protections.
@@ -216,7 +216,7 @@
 
 ---
 
-## 17. During the early days of **settler colonialism** and the era of **Westward Expansion**, how did Native peoples **resist the harms** being imposed on them? Include examples from **Lumbee**, **Ojibwe**, and **Lakota** histories. [在早期殖民主义和西进运动中，原住民是怎么抵抗迫害的]
+### 17. During the early days of **settler colonialism** and the era of **Westward Expansion**, how did Native peoples **resist the harms** being imposed on them? Include examples from **Lumbee**, **Ojibwe**, and **Lakota** histories. [在早期殖民主义和西进运动中，原住民是怎么抵抗迫害的]
 
 ### Lowery 2010
 - The Lumbee resisted white supremacy and violence during the Reconstruction era through a seven-year guerrilla war by Henry Berry Lowry.
@@ -229,7 +229,7 @@
 
 ---
 
-## 18. How have American Indians **adapted and thrived**, **socially** and **economically**, in **urban environments**? Use specific examples of actions they have taken. [美国印第安人是如何在城市环境适应并实现社会、经济繁荣的]
+### 18. How have American Indians **adapted and thrived**, **socially** and **economically**, in **urban environments**? Use specific examples of actions they have taken. [美国印第安人是如何在城市环境适应并实现社会、经济繁荣的]
 
 ### Loew 2013
 - Urban Indians established the Indian Community School of Milwaukee to provide a K-8 curriculum informed by traditional values, language, and heritage.
