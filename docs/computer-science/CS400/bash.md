@@ -205,14 +205,14 @@ cat log.txt | grep error # 查找包含 error 的日志
 
 - Tips: 管道可以连续使用
     - 例子：
-    - ```
-      ls | grep ".java" | wc -l # 输出当前目录 java 文件数量
-      ```
+    ```
+    ls | grep ".java" | wc -l # 输出当前目录 java 文件数量
+    ```
     - 流程：
-    - ```
-      ls 列出文件
-          ↓
-      grep 只保留 .java
-          ↓
-      wc -l 统计行数 # wc即word count，默认输出"行数  单词数  字节数  文件名", -l表示显示行数，-w显示单词数，-c显示字节数
-      ```
+    ```
+    ls 列出文件
+        ↓
+    grep 只保留 .java
+        ↓
+    wc -l 统计行数 # wc即word count，默认输出"行数  单词数  字节数  文件名", -l表示显示行数，-w显示单词数，-c显示字节数
+    ```
