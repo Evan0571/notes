@@ -1,9 +1,9 @@
 # Make
-Make 本质上是一个“根据依赖关系自动执行命令”的工具。他的常见用途包括：
-- 自动编译代码
-- 只编译那些过期的代码
-- 把复杂命令放在一个统一入口
-- 给团队提供统一的build/run/test/clean命令
+-Make 本质上是一个“根据依赖关系自动执行命令”的工具。他的常见用途包括：
+    - 自动编译代码
+    - 只编译那些过期的代码
+    - 把复杂命令放在一个统一入口
+    - 给团队提供统一的build/run/test/clean命令
 
 ## 为什么要用Make？
 正常编译要写的命令行很多，非常复杂，而是用Make把构建过程写成规则，则可以用简单命令一下子触发
@@ -32,7 +32,7 @@ Make默认读取一个叫做Makefile的文件
         - 达到目标要执行javac CalcLibrary.java
 
 ### Makefile内部rule执行顺序
-执行command前要先递归实现所有的dependencies
+- 执行command前要先递归实现所有的dependencies
 - 例如：
 ```make
 run: CalcApp.class CalcLibrary.class
@@ -44,7 +44,7 @@ run: CalcApp.class CalcLibrary.class
 - 总结：想做某个target -> 先递归解决其依赖 -> 再解决本身
 
 ### 时间戳概念
-Make会比较source file和target file的时间戳判断是否需要更新
+- Make会比较source file和target file的时间戳判断是否需要更新
 - 举例：
 ```make
 CalcLibrary.class: CalcLibrary.java

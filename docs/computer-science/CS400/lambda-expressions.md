@@ -46,7 +46,7 @@ x -> x * x
 ```
 
 ## Lambda 必须依赖 Functional Interface
-Lambda不能单独存在，必须要有函数式接口（只有一个抽象方法的接口）
+- Lambda不能单独存在，必须要有函数式接口（只有一个抽象方法的接口）
 - 例如
 ```
 interface MathOperation {
