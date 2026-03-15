@@ -1,21 +1,21 @@
 # Lambda Expression
-Lambda Expression本质是一种匿名函数(anonymous function)，有以下特点：
-- 无函数名
-- 可以直接作为参数传递
-- 代码更短
-- Quick Comparation：
-    - 传统Java匿名类写法
-    ```
-    Comparator<Integer> cmp = new Comparator<Integer>() {
-        public int compare(Integer a, Integer b) {
-            return a - b;
-        }
-    };
-    ```
-    - Lambda 写法
-    ```
-    Comparator<Integer> cmp = (a, b) -> a - b;
-    ```
+-Lambda Expression本质是一种匿名函数(anonymous function)，有以下特点：
+    - 无函数名
+    - 可以直接作为参数传递
+    - 代码更短
+    - Quick Comparation：
+        - 传统Java匿名类写法
+        ```
+        Comparator<Integer> cmp = new Comparator<Integer>() {
+            public int compare(Integer a, Integer b) {
+                return a - b;
+            }
+        };
+        ```
+        - Lambda 写法
+        ```
+        Comparator<Integer> cmp = (a, b) -> a - b;
+        ```
 
 ## Lambda的语法结构
 ```
