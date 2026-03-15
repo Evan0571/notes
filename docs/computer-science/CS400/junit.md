@@ -13,7 +13,7 @@
 
 ### test class
 - 测试类，专门放测试代码，例如：
-```
+```java
 public class RedBlackTreeTest {
 }
 ```
@@ -23,7 +23,7 @@ public class RedBlackTreeTest {
 ### test method
 - 测试方法，表示一个独立测试用例，只测试一个明确行为，如插入一个元素之后size变为1
 - 在JUnit5中，test method要用@Test标记，例如：
-```
+```java
 @Test
 public void testInsertSingleValue() {
 }
@@ -32,7 +32,7 @@ public void testInsertSingleValue() {
 ### assertion
 - 断言就是“检查结果是否符合预期”
 - 断言用于判断测试是否通过，例如：
-```
+```java
 assertEquals(1,tree.size());
 ```
     - 断言tree.size()等于1
@@ -42,7 +42,7 @@ assertEquals(1,tree.size());
 
 ### @Test
 - 表示这是一个测试方法
-```
+```java
 @Test
 public void testSizeAfterInsert() {
     RedBlackTree<Integer> tree = new RedBlackTree<>();
@@ -54,7 +54,7 @@ public void testSizeAfterInsert() {
 ### @BeforeEach
 - 表示每个测试方法方法执行之前都要运行一次
 - 用于解决“测试隔离”
-```
+```java
 private RedBlackTree<Integer> tree;
 
 @BeforeEach
@@ -78,20 +78,20 @@ public void setUp() {
 ### assertEquals(expected, actual)
 - 检查“预期值”与“实际值”是否相等。
 - e.g.
-```
+```java
 assertEquals(3, tree.size());
 ```
     - 预期=3，实际=tree.size()
     - 若tree.size() ≠ 3，表示测试失败
 - 适用场景：size，height，返回值，traversal结果，例如：
-```
+```java
 assertEquals("1 2 3", tree.inOrderTraversal());
 ```
 
 ### assertTrue(condition)
 - 检查条件是否为true
 - e.g.
-```
+```java
 assertTrue(tree.contains(10));
 ```
     - 判断tree.contains(10)是否是true
@@ -100,7 +100,7 @@ assertTrue(tree.contains(10));
 ### assertFalse(condition)
 - 检查条件是否为false(比如删除某个数据之后，测试他还在不在)
 - e.g.
-```
+```java
 assertFalse(tree.contains(99));
 ```
     - 判断tree.contains(99)是否是false
@@ -109,7 +109,7 @@ assertFalse(tree.contains(99));
 ### assertNull(value)
 - 检查对象是否为null
 - e.g.
-```
+```java
 assertNull(node.leftChild);
 ```
     - 此处判断node.leftChild是不是null
@@ -118,7 +118,7 @@ assertNull(node.leftChild);
 ### assertNotNull（value）
 - 检查对象是不是非null
 - e.g.
-```
+```java
 assertNotNull(tree.root);
 ```
     - 此处判断根节点是不是非null，即存在
@@ -127,7 +127,7 @@ assertNotNull(tree.root);
 ### assertThrows(ExceptionType.class, () -> {...})
 - 检查某段代码是否能抛出指定异常
 - e.g.
-```
+```java
 assertThrows(NullPointerException.class, () -> {
     tree.insert(null);
 });
@@ -138,7 +138,7 @@ assertThrows(NullPointerException.class, () -> {
 
 ## 完整JUnit示例
 ### 简单类
-```
+```java
 public class Counter {
     private int count = 0;
 
@@ -152,7 +152,7 @@ public class Counter {
 }
 ```
 ### 测试类
-```
+```java
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -179,7 +179,7 @@ public class CounterTest {
 - 即符和预期的常规操作
 - 例如在BST/RBT中插入正常整数、查找存在元素、删除已有元素
 - e.g.
-```
+```java
 @Test
 public void testContainsInsertedValue() {
     RedBlackTree<Integer> tree = new RedBlackTree<>();
@@ -197,8 +197,8 @@ public void testContainsInsertedValue() {
 - 测试一些边界情况
 - 例如空值，null等
 - e.g. 
-```
-# 空结构
+```java
+// 空结构
 assertEquals(0, tree.size());
 assertFalse(tree.contains(1));
 ```
@@ -207,7 +207,7 @@ assertFalse(tree.contains(1));
 - 测试非法输入或非法状态
 - 例如删除不存在元素、访问非法索引等
 - e.g. 
-```
+```java
 @Test
 public void testInsertNullThrowsException() {
     RedBlackTree<Integer> tree = new RedBlackTree<>();
@@ -241,7 +241,7 @@ public void testInsertNullThrowsException() {
 - Act：执行操作
 - Assert：断言结果
 - e.g.
-```
+```java
 @Test
 public void testRemoveLeafNode() {
     // Arrange
@@ -261,10 +261,10 @@ public void testRemoveLeafNode() {
 
 ## JUnit在命令行的运行
 ### 第一步：编译
-```
+```bash
 javac -cp junit5.jar:. HelloWorld.java
 ```
 ### 第二步：运行jar
-```
+```bash
 java -jar junit5.jar -cp . -c HelloWorld
 ```

@@ -13,7 +13,7 @@ Make默认读取一个叫做Makefile的文件
 ### Makefile的核心结构
 - Makefile的基本单位叫rule
     - 一条rule有三个部分
-    ```
+    ```make
     target: dependencies
         commands
     ```
@@ -22,7 +22,7 @@ Make默认读取一个叫做Makefile的文件
         - commands: 真正执行的shell指令
         - Tips: Command前是Tab
     - 举例：
-    ```
+    ```make
     CalcLibrary.class: CalcLibrary.java
     	javac CalcLibrary.java
     ```
@@ -34,7 +34,7 @@ Make默认读取一个叫做Makefile的文件
 ### Makefile内部rule执行顺序
 执行command前要先递归实现所有的dependencies
 - 例如：
-```
+```make
 run: CalcApp.class CalcLibrary.class
 	java CalcApp
 ```
@@ -46,7 +46,7 @@ run: CalcApp.class CalcLibrary.class
 ### 时间戳概念
 Make会比较source file和target file的时间戳判断是否需要更新
 - 举例：
-```
+```make
 CalcLibrary.class: CalcLibrary.java
 	javac CalcLibrary.java
 ```
@@ -56,7 +56,7 @@ CalcLibrary.class: CalcLibrary.java
     - 反之，如果.java比.class新，Make就知道.class过期了，并重新编译
 
 ## 具体Makefile示例
-```
+```make
 build: CalcLibrary.class CalcApp.class
 
 CalcLibrary.class: CalcLibrary.java
@@ -75,7 +75,7 @@ clean:
 	rm -f *.class
 ```
 ### `build` target: 统一编译入口
-```
+```make
 build: CalcLibrary.class CalcApp.class
 ```
 - 这一句规则没有command，只有target和dependencies
@@ -83,13 +83,13 @@ build: CalcLibrary.class CalcApp.class
 
 ### 编译`.class`规则
 - 一般文件
-```
+```make
 CalcLibrary.class: CalcLibrary.java
 	javac CalcLibrary.java
 ```
     - 好处是Make会比较时间戳来判定.class是不是最新的
 - 主程序/测试类
-```
+```make
 CalcApp.class: CalcApp.java CalcLibrary.class junit5.jar
 	javac -cp .:junit5.jar CalcApp.java
 ```
@@ -97,21 +97,21 @@ CalcApp.class: CalcApp.java CalcLibrary.class junit5.jar
     - 第二句中多个classpath用“:”连接（Linux环境）
 
 ### `run` target: 运行程序
-```
+```make
 run: CalcLibrary.class CalcApp.class
 	java CalcApp
 ```
 - 目的是先确定class文件存在且最新再执行程序
 
 ### `test` target: 做测试
-```
+```make
 test: CalcLibrary.class CalcApp.class junit5.jar
 	java -jar junit5.jar -cp . -c CalcApp
 ```
 - 目的是先确定class文件都已编译再调用JUnit执行测试
 
 ### `clean` target: 清理编译产物
-```
+```make
 clean:
 	rm -f *.class
 ```
@@ -121,7 +121,7 @@ clean:
 - 目前run、clean、test这些都是动作型target，而非文件
 - 如果目录内真有叫clean的文件，那Make会误以为target `clean`已存在，于是不允许`clean`规则
 - 此时我们需要用到`.PHONY`:
-```
+```make
 .PHONY: build run test clean
 ```
 - 意思是`build`、`run`、`test`、`clean`都是伪目标
@@ -130,7 +130,7 @@ clean:
 ## `@`的作用
 - 把`@`放在command前，在make执行command时，命令不会显示出来
 - 例如：
-```
+```make
 clean:
 	@rm -f *.class # make clean时终端不会显示改命令
 ```
