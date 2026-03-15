@@ -16,7 +16,7 @@
 pwd
 ```
 - 输出：
-```text title="输出"
+```text
 /home/song372
 ```
 
@@ -33,7 +33,7 @@ ls -a # 显示隐藏文件(以. 开头)
 ls -la # 列出详细信息和隐藏文件
 ```
 - 输出：
-```text title="输出"
+```text
 A02.BashIntroduction/  A06.Make/       P104.RedBlackTree/ 
 A03.JUnit/             A07.Lambda/     P105.CodeReview/  
 A04.FirstGit/          junit5.jar      P106.Iterator/
@@ -209,7 +209,7 @@ cat log.txt | grep error # 查找包含 error 的日志
     ls | grep ".java" | wc -l # 输出当前目录 java 文件数量
     ```
     - 流程：
-    ```text title="流程"
+    ```text
     ls 列出文件
         ↓
     grep 只保留 .java

@@ -116,7 +116,7 @@ git pull
 你和别人改了同样位置的代码，git在pull/merge时不知道保留谁的
 
 ### 冲突标记
-```text title="冲突标记"
+```text
 <<<<<<< HEAD
 这是你当前分支的版本
 =======
@@ -164,7 +164,7 @@ git diff commit1 commit2 # commit1 vs commit2
 git blame Main.java
 ```
 - 示例输出：
-```text title="示例输出"
+```text
 a1b2c3d4 (Alice 2026-03-10 10:15:22 -0500 1) public class Main {
 e5f6g7h8 (Bob   2026-03-11 14:20:01 -0500 2)     public static void main(String[] args) {
 e5f6g7h8 (Bob   2026-03-11 14:20:01 -0500 3)         System.out.println("Hello");
