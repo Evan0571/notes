@@ -38,6 +38,12 @@ assertEquals(1,tree.size());
     - 断言tree.size()等于1
     - 如果不等于，则表示测试失败
 
+## JUnit 5 的 test method 的规则
+- 必须有@Test
+- 必须是void返回类型
+- static不会被当作测试运行
+- 方法可以是public
+
 ## JUnit 常用注解(annotations) - 补充
 
 ### @Test
